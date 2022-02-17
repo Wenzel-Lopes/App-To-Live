@@ -36,6 +36,8 @@
 
 ## Tecnologias utilizadas
 
+. JAVA
+
 . HTML
 
 . CSS
@@ -43,3 +45,5 @@
 . JS
 
 . Bootstrap
+
+
